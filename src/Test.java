@@ -7,7 +7,7 @@ public class Test {
 		int i = 0;		
 
 		while (i<10) {
-			System.out.println("ok" + i);
+			System.out.println("no " + i);
 			i++;
 		}
 		
