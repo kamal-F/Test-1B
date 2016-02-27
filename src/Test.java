@@ -14,6 +14,8 @@ public class Test {
 		Test ObjT = new Test();
 		ObjT.setK(100);
 		System.out.println(ObjT.getK());
+		
+		Test2.tampil();
 
 	}
 
