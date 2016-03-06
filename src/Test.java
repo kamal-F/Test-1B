@@ -7,7 +7,8 @@ public class Test {
 		int k = new Scanner(System.in).nextInt();
 		for (int i = 0; i < k; i++) {
 			System.out.println("Test ke"+ i);
-		}		
+		}
+		System.out.println("dari server");
 	}
 
 }
