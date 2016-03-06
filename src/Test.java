@@ -9,6 +9,6 @@ public class Test {
 
 			System.out.println("number ke"+ i);
 		}		
-		System.out.println("dari server");
+		System.out.println("dari server, eh lokal");
 	}
 }
